@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, LoginActivity!</string>
+    <string name="app_name">RFIDClient</string>
+    <string name="serverip">服务器地址</string>
+    <string name="clientip">本机地址</string>
+    <string name="username">用户名</string>
+    <string name="password">密码</string>
+    <string name="clear">清空</string>
+    <string name="exit">退出</string>
+    <string name="login">登录</string>
+    <string name="localip">本机地址</string>
+    <string name="ItemName">物品名称</string>
+    <string name="PersonName">责任人</string>
+    <string name="Organization">所属部门</string>
+    <string name="AlarmTime">报警时间</string>
+    <string name="Position">检测位置</string>
+    <string name="IsAllowed">授权状态</string>
+
+</resources>
